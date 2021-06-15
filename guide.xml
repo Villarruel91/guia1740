@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ARG | America">
+    <display-name lang="es">ARG | America</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="ARG | TV Publica">
+    <display-name lang="es">ARG | TV Publica</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="ARG | El Trece">
+    <display-name lang="es">ARG | El Trece</display-name>
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <programme start="20210615233000 -0300" stop="20210616010000 -0300" channel="ARG | America">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20210616010000 -0300" stop="20210616023000 -0300" channel="ARG | America">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20210616023000 -0300" stop="20210616043000 -0300" channel="ARG | America">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20210616043000 -0300" stop="20210616053000 -0300" channel="ARG | America">
+    <title lang="es">Es por ahí</title>
+  </programme>
+  <programme start="20210616053000 -0300" stop="20210616063000 -0300" channel="ARG | America">
+    <title lang="es">Animérica</title>
+  </programme>
+  <programme start="20210616063000 -0300" stop="20210616090000 -0300" channel="ARG | America">
+    <title lang="es">Buenos días, América</title>
+  </programme>
+  <programme start="20210616090000 -0300" stop="20210616110000 -0300" channel="ARG | America">
+    <title lang="es">BDA Extra</title>
+  </programme>
+  <programme start="20210616110000 -0300" stop="20210616133000 -0300" channel="ARG | America">
+    <title lang="es">Es por ahí</title>
+  </programme>
+  <programme start="20210616133000 -0300" stop="20210616160000 -0300" channel="ARG | America">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20210616160000 -0300" stop="20210616180000 -0300" channel="ARG | America">
+    <title lang="es">Fantino a la tarde</title>
+  </programme>
+  <programme start="20210616180000 -0300" stop="20210616190000 -0300" channel="ARG | America">
+    <title lang="es">América noticias 2da. edición</title>
+  </programme>
+  <programme start="20210616190000 -0300" stop="20210616203000 -0300" channel="ARG | America">
+    <title lang="es">Polémica en el bar</title>
+  </programme>
+  <programme start="20210616203000 -0300" stop="20210616220000 -0300" channel="ARG | America">
+    <title lang="es">Los Mammones</title>
+  </programme>
+  <programme start="20210616220000 -0300" stop="20210616233000 -0300" channel="ARG | America">
+    <title lang="es">Intratables</title>
+  </programme>
+  <programme start="20210616233000 -0300" stop="20210617010000 -0300" channel="ARG | America">
+    <title lang="es">Intrusos</title>
+  </programme>
+  <programme start="20210615230000 -0300" stop="20210616000000 -0300" channel="ARG | TV Publica">
+    <title lang="es">La caída</title>
+  </programme>
+  <programme start="20210616000000 -0300" stop="20210616004000 -0300" channel="ARG | TV Publica">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20210616004000 -0300" stop="20210616010000 -0300" channel="ARG | TV Publica">
+    <title lang="es">Lito Vitale a la medianoche</title>
+  </programme>
+  <programme start="20210616010000 -0300" stop="20210616030000 -0300" channel="ARG | TV Publica">
+    <title lang="es">Argentina vs. Chile, Grupo A</title>
+  </programme>
+  <programme start="20210616030000 -0300" stop="20210616050000 -0300" channel="ARG | TV Publica">
+    <title lang="es">Mañanas públicas</title>
+  </programme>
+  <programme start="20210616050000 -0300" stop="20210616060000 -0300" channel="ARG | TV Publica">
+    <title lang="es">Gigantes del sur</title>
+  </programme>
+  <programme start="20210616060000 -0300" stop="20210616063000 -0300" channel="ARG | TV Publica">
+    <title lang="es">Publicados</title>
+  </programme>
+  <programme start="20210616063000 -0300" stop="20210616070000 -0300" channel="ARG | TV Publica">
+    <title lang="es">Pampero TV</title>
+  </programme>
+  <programme start="20210616070000 -0300" stop="20210616090000 -0300" channel="ARG | TV Publica">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20210616090000 -0300" stop="20210616093000 -0300" channel="ARG | TV Publica">
+    <title lang="es">#Quedate en casa</title>
+  </programme>
+  <programme start="20210616093000 -0300" stop="20210616100000 -0300" channel="ARG | TV Publica">
+    <title lang="es">Pakapaka</title>
+  </programme>
+  <programme start="20210616100000 -0300" stop="20210616120000 -0300" channel="ARG | TV Publica">
+    <title lang="es">Mañanas públicas</title>
+  </programme>
+  <programme start="20210616120000 -0300" stop="20210616133000 -0300" channel="ARG | TV Publica">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20210616133000 -0300" stop="20210616160000 -0300" channel="ARG | TV Publica">
+    <title lang="es">Cocineros argentinos</title>
+  </programme>
+  <programme start="20210616160000 -0300" stop="20210616173000 -0300" channel="ARG | TV Publica">
+    <title lang="es">Todos Estamos Conectados por la música</title>
+  </programme>
+  <programme start="20210616173000 -0300" stop="20210616180000 -0300" channel="ARG | TV Publica">
+    <title lang="es">Documentales en la Televisión Pública Argentina</title>
+  </programme>
+  <programme start="20210616180000 -0300" stop="20210616200000 -0300" channel="ARG | TV Publica">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20210616200000 -0300" stop="20210616210000 -0300" channel="ARG | TV Publica">
+    <title lang="es">El show de la copa</title>
+  </programme>
+  <programme start="20210616210000 -0300" stop="20210616220000 -0300" channel="ARG | TV Publica">
+    <title lang="es">¿Quién sabe + de Argentina?</title>
+  </programme>
+  <programme start="20210616220000 -0300" stop="20210616230000 -0300" channel="ARG | TV Publica">
+    <title lang="es">Relatoras argentinas</title>
+  </programme>
+  <programme start="20210616230000 -0300" stop="20210616233000 -0300" channel="ARG | TV Publica">
+    <title lang="es">El marginal</title>
+  </programme>
+  <programme start="20210616233000 -0300" stop="20210617000000 -0300" channel="ARG | TV Publica">
+    <title lang="es">El retrovisor</title>
+  </programme>
+  <programme start="20210615234500 -0300" stop="20210616003000 -0300" channel="ARG | El Trece">
+    <title lang="es">En síntesis</title>
+  </programme>
+  <programme start="20210616003000 -0300" stop="20210616004500 -0300" channel="ARG | El Trece">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20210616004500 -0300" stop="20210616063000 -0300" channel="ARG | El Trece">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20210616063000 -0300" stop="20210616070000 -0300" channel="ARG | El Trece">
+    <title lang="es">Tiempo del tiempo</title>
+  </programme>
+  <programme start="20210616070000 -0300" stop="20210616093000 -0300" channel="ARG | El Trece">
+    <title lang="es">Arriba argentinos</title>
+  </programme>
+  <programme start="20210616093000 -0300" stop="20210616113000 -0300" channel="ARG | El Trece">
+    <title lang="es">Los ángeles de la mañana</title>
+  </programme>
+  <programme start="20210616113000 -0300" stop="20210616130000 -0300" channel="ARG | El Trece">
+    <title lang="es">Lo de Mariana</title>
+  </programme>
+  <programme start="20210616130000 -0300" stop="20210616143000 -0300" channel="ARG | El Trece">
+    <title lang="es">Noticiero Trece</title>
+  </programme>
+  <programme start="20210616143000 -0300" stop="20210616160000 -0300" channel="ARG | El Trece">
+    <title lang="es">100 argentinos dicen</title>
+  </programme>
+  <programme start="20210616160000 -0300" stop="20210616170000 -0300" channel="ARG | El Trece">
+    <title lang="es">El club de las divorciadas</title>
+  </programme>
+  <programme start="20210616170000 -0300" stop="20210616183000 -0300" channel="ARG | El Trece">
+    <title lang="es">El gran premio de la cocina</title>
+  </programme>
+  <programme start="20210616183000 -0300" stop="20210616200000 -0300" channel="ARG | El Trece">
+    <title lang="es">Bienvenidos a bordo</title>
+  </programme>
+  <programme start="20210616200000 -0300" stop="20210616211500 -0300" channel="ARG | El Trece">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20210616211500 -0300" stop="20210616224500 -0300" channel="ARG | El Trece">
+    <title lang="es">Showmatch, la academia</title>
+  </programme>
+  <programme start="20210616224500 -0300" stop="20210616234500 -0300" channel="ARG | El Trece">
+    <title lang="es">Bienvenidos a bordo</title>
+  </programme>
+  <programme start="20210616234500 -0300" stop="20210617003000 -0300" channel="ARG | El Trece">
+    <title lang="es">En síntesis</title>
+  </programme>
+</tv>
